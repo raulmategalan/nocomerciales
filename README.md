@@ -6,6 +6,8 @@ callerID sigue la nueva numeración comercial española: empieza por
 
 Un producto gratuito de economiza.com (diseñado por RAUL MATE GALAN) 
 
+Puedes bajarla de https://raw.githubusercontent.com/raulmategalan/nocomerciales/claude/android-call-blocker-400-xkg9nr/nocomerciales.apk 
+
 ## Cómo funciona
 
 La app usa la API oficial de Android `CallScreeningService`
