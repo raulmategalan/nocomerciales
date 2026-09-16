@@ -4,6 +4,8 @@ App Android que bloquea automáticamente las llamadas entrantes cuyo
 callerID sigue la nueva numeración comercial española: empieza por
 `400` y tiene 9 dígitos en total (`400 XXX XXX`).
 
+Un producto gratuito de economiza.com (diseñado por RAUL MATE GALAN) 
+
 ## Cómo funciona
 
 La app usa la API oficial de Android `CallScreeningService`
