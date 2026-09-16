@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">No Comerciales</string>
+    <string name="app_description">Bloquea automáticamente las llamadas cuyo número empieza por 400 y tiene 9 dígitos (numeración comercial en España).</string>
+    <string name="status_active">Bloqueo activo</string>
+    <string name="status_inactive">Bloqueo desactivado</string>
+    <string name="button_enable">Activar bloqueo de llamadas</string>
+    <string name="button_active">Bloqueo activado</string>
+    <string name="blocked_list_title">Llamadas bloqueadas</string>
+    <string name="blocked_list_empty">Todavía no se ha bloqueado ninguna llamada.</string>
+    <string name="blocked_entry">%1$s — %2$s %3$s</string>
+</resources>
